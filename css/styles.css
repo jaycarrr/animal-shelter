@@ -1,0 +1,9 @@
+.column {
+  float: left;
+  width: 300px;
+}
+.textstyle {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: aqua;
+  
+}
